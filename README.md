@@ -1,2 +1,2 @@
 # kickstarter-analysis
-Campaign fundraising analysis for mock client, Louise's play 'Fever'.
+Campaign fundraising analysis for Louise's play 'Fever'.
