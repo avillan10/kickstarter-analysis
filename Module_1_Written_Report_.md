@@ -11,9 +11,14 @@ The purpose of this analysis is to forecast and explore how different campaigns 
 
 ### Analysis of Outcomes Based on Launch Date
 Based off the data collected, in regards to theater campaign funding categorized by successful, failed, and canceled, correlated to launch dates. The data suggests that successful theater campaign funding sources did exponentially well in late April and early May. In addition, the data suggests that the Spring and Summer seasons allowed for a more lucrative campaign funding factor.
+Picture1_TheaterOutcomes_VS_LaunchDate.png![image](https://user-images.githubusercontent.com/80291340/111893842-d8451980-89c2-11eb-853e-5371cbbf0c53.png)
+
 
 ### Analysis of Outcomes Based on Goals
 Based on the data collected for plays categorized by successful, failed, and canceled, as well as correlated to the goal amount of the campaign funding source of theater plays. The data suggests the plays with a goal range of $1000 to $4999 displayed more successful outcomes. However, on the opposite spectrum of the goal amount, the goal range of $50000 or greater data displayed that 42% of plays were successful in achieving their goal amount, and 58% failed in achieving their goal amount. The data displays the notion that campaign funding sources, such as plays, should predict to achieve their goal amount if it is the range of $1000 to $4999. It is more of a gamble to have a goal amount of $50000 or greater.
+Picture2_Outcomes_VS_Goals.png![image](https://user-images.githubusercontent.com/80291340/111893848-f90d6f00-89c2-11eb-8f1c-848d4f905e57.png)
+
+
 
 ### Challenges and Difficulties Encountered
 The challenges and difficulties encountered within this project is the large and abundant size of the entire data sheet. It takes a while to methodically assess the data and determine what are the best variables to examine.
