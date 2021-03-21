@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
 Helping an up and coming playwright, by the name of Louise, who wants to start a crowdfunding campaign to help fund her play called Fever.
